@@ -7,10 +7,10 @@ from bs4 import BeautifulSoup
 import re
 
 mydb = mysql.connector.connect(
-  host="akumi.caqzlvmetak9.us-west-1.rds.amazonaws.com",
-  user="ToBeThriller2479",
-  passwd="Akumi123",
-  database="Akumi"
+  host="**********",
+  user="**********",
+  passwd="************",
+  database="************"
 )
 
 print(mydb)
