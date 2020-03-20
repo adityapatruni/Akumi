@@ -1,0 +1,8 @@
+{
+  "name": "Akumi",
+  "version": "1.0.0",
+  "description": "A One Piece Discord bot",
+  "main": "bot.js",
+  "author": "ToBeThriller",
+  "dependencies": {}
+}
